@@ -1,6 +1,5 @@
 
-/* Author: Ruth Alice Williams
- * ID: 2423310
+/*
  * Program description: Prompts user to input full name and provides length
  * of full name, length of middle name, initials and name in all uppercase.
  * Pseudocode:
